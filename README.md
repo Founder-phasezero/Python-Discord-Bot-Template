@@ -22,7 +22,7 @@ A clean and expandable **Python Discord bot template** using `discord.py` with s
 ├── cogs
 │   ├── 1.py
 │   └── (add more cogs here)
-└── README.md
+└── Requirements.txt
 ```
 
 ---
